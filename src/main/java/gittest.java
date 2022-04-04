@@ -6,5 +6,6 @@ public class gittest {
         System.out.println("hot-fix");
         System.out.println("master-fix");
 
+        System.out.println("hot-fix1");
     }
 }
